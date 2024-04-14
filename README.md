@@ -1,6 +1,6 @@
 ## Contact
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/BumpOFBear?style=social)](https://twitter.com/intent/follow?screen_name=BumpOFBear)
+[![Twitter Follow](https://img.shields.io/twitter/follow/bump_of_bear?style=social)](https://twitter.com/intent/follow?screen_name=bump_of_bear)
 
 ## States
 
